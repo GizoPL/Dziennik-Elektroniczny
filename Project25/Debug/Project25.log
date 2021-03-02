@@ -1,0 +1,7 @@
+﻿  funkcje.cpp
+c:\users\artur giza\source\repos\project25\project25\funkcje.cpp(17): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\artur giza\source\repos\project25\project25\funkcje.cpp(126): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\artur giza\source\repos\project25\project25\funkcje.cpp(232): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  main.cpp
+  Generowanie kodu...
+  Project25.vcxproj -> C:\Users\Artur Giza\Source\Repos\Project25\Debug\projekt zaliczeniovy v1.exe
